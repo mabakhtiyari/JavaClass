@@ -8,7 +8,7 @@ public class MyProperties {
         String job="System Analyst";
         long salary=850000000;
         boolean single=true;
-        int height=173;
+        int height=174;
 
         System.out.println("Name is:"+name);
         System.out.println("Family is:"+family);
