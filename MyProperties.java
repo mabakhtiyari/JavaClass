@@ -1,4 +1,3 @@
-import java.io.StringReader;
 
 public class MyProperties {
     public static void main(String[] args) {
@@ -16,7 +15,7 @@ public class MyProperties {
         System.out.println("Age is:"+age);
         System.out.println("Job is:"+job);
         System.out.println("Salary is:"+salary);
-        System.out.println("Im Single");
+        System.out.println("Im Single"+single);
         System.out.println("My height is:"+height);
 
 
