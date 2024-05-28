@@ -7,7 +7,7 @@ public class MyProperties {
         int age=31;
         String job="System Analyst";
         long salary=850000000;
-        Boolean single=true;
+        boolean single=true;
         int height=173;
 
         System.out.println("Name is:"+name);
