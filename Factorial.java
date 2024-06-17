@@ -10,7 +10,7 @@ public class Factorial {
             return 1;
         }
         else {
-            return n * calcFactorial(n - 1);
+            return n*(n-1)*(n-2)*(n-3)*1;
         }
     }
 }
